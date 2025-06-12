@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_glossary_1=self.webpackChunkmy_glossary_1||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/my-glossary1/blog","blogTitle":"Blog","authorsListPath":"/my-glossary1/blog/authors"}')}}]);

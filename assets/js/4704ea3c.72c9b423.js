@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_glossary_1=self.webpackChunkmy_glossary_1||[]).push([[3560],{5167:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/my-glossary1/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
